@@ -8,7 +8,7 @@ data2016 <- read.csv(file="2016_nba_draft_combine.csv", header=TRUE, sep=",", ch
 #load libraries
 library(data.table)
 
-#combine the 4 datasets to create working dataset containing data for all 4 yeears
+#combine the 4 datasets to create working dataset containing data for all 4 years
 dataset <- rbind(data2012, data2013, data2014, data2015, data2016)
 
 #drop the columns not being used (since these were not found in the other source of data for other combine years)
