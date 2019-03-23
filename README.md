@@ -1,9 +1,11 @@
-#Theories being tested in this analysis-
+# NBA Combine Analysis
+
+## Theories being tested in this analysis-
 
 1.	There is a no correlation between draft picks and any single category of the combine since players are drafted more on their previous performance on the basketball court as opposed to a single variable of their athletic ability of body structure.
 2.	The NBA changed the rulebook prior to 2004-2005 to open up the court and increasing scoring. By doing so, they would not allow players to be as physical with each other without fouling them. According to the league rules, new rules were introduced to curtail hand-checking, clarify blocking fouls and call defensive three seconds to open up the game.  
 
-#Description of the files: 
+## Description of the files: 
 
 Data Files: 
 -The following datasets (“2012_nba_draft_combine.csv”, “2013_nba_draft_combine.csv”, “2014_nba_draft_combine.csv”, “2015_nba_draft_combine.csv”, “2016_nba_draft_combine.csv” were found on data.world. These were the original inspiration for my project. 
